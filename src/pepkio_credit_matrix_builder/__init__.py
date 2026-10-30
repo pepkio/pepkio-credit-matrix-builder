@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio credit-matrix-builder."""
 
 from .client import PepkioClient
